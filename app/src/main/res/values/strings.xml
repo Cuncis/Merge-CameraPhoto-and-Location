@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Camera Datetime Example</string>
+    <string name="date_time"><![CDATA[Date & Time]]></string>
+    <string name="time">Time</string>
+</resources>
